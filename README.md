@@ -2,10 +2,7 @@
 
 > This is a ReadMe to help understand about this repository
 
-![Project Image](https://user-images.githubusercontent.com/26475029/101975650-14a50300-3c79-11eb-91e8-7290e7036b16.PNG)
-![Project Image](https://user-images.githubusercontent.com/26475029/101975665-238bb580-3c79-11eb-9e4c-fceb2f61cb16.PNG)
-![Project Image](https://user-images.githubusercontent.com/26475029/101975691-4d44dc80-3c79-11eb-9f40-41e71c116e58.PNG)
-
+![Project Image](https://user-images.githubusercontent.com/26475029/102732919-dd201000-4376-11eb-9097-602b0a5df801.PNG)
 
 ---
 
